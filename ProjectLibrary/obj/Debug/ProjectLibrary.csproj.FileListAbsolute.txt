@@ -1,0 +1,6 @@
+C:\Users\Yurii_Kalinchuk\source\repos\Project\ProjectLibrary\bin\Debug\ProjectLibrary.dll
+C:\Users\Yurii_Kalinchuk\source\repos\Project\ProjectLibrary\bin\Debug\ProjectLibrary.pdb
+C:\Users\Yurii_Kalinchuk\source\repos\Project\ProjectLibrary\obj\Debug\ProjectLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Yurii_Kalinchuk\source\repos\Project\ProjectLibrary\obj\Debug\ProjectLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Yurii_Kalinchuk\source\repos\Project\ProjectLibrary\obj\Debug\ProjectLibrary.dll
+C:\Users\Yurii_Kalinchuk\source\repos\Project\ProjectLibrary\obj\Debug\ProjectLibrary.pdb
