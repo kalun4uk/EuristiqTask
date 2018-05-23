@@ -1,0 +1,10 @@
+c:\users\yurii_kalinchuk\source\repos\Project\Project\bin\Debug\Project.exe.config
+c:\users\yurii_kalinchuk\source\repos\Project\Project\bin\Debug\Project.exe
+c:\users\yurii_kalinchuk\source\repos\Project\Project\bin\Debug\Project.pdb
+c:\users\yurii_kalinchuk\source\repos\Project\Project\bin\Debug\ProjectLibrary.dll
+c:\users\yurii_kalinchuk\source\repos\Project\Project\bin\Debug\ProjectLibrary.pdb
+c:\users\yurii_kalinchuk\source\repos\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+c:\users\yurii_kalinchuk\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+c:\users\yurii_kalinchuk\source\repos\Project\Project\obj\Debug\Project.csproj.CopyComplete
+c:\users\yurii_kalinchuk\source\repos\Project\Project\obj\Debug\Project.exe
+c:\users\yurii_kalinchuk\source\repos\Project\Project\obj\Debug\Project.pdb
